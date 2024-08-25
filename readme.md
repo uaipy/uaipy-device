@@ -1,6 +1,6 @@
 # UAIpy Device
 
-Este repositório contém o código-fonte para gerenciar e comunicar-se com dispositivos IoT usando a biblioteca Uaipy. Ele é projetado para facilitar a integração de dispositivos IoT com um servidor local, permitindo a coleta e monitoramento de dados em tempo real.
+Este repositório contém o código-fonte para gerenciar e comunicar-se com dispositivos IoT usando o dispositivo UAIpy. Ele é projetado para facilitar a integração de dispositivos IoT com um servidor local, permitindo a coleta e monitoramento de dados em tempo real.
 
 ## Funcionalidades
 
